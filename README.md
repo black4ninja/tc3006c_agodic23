@@ -5,4 +5,4 @@
 
 | Clase | Tema | Laboratorio |
 | ----- |----- | ----------- | 
-| 1     | Introducción al desarrollo con Flask | [Laboratorio](/labs/1_intro_flask.md0)                  |
+| 1     | Introducción al desarrollo con Flask | [Laboratorio](labs/1_intro_flask.md0)                  |
