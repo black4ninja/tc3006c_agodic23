@@ -21,6 +21,7 @@
 | Clase | Tema | Laboratorio |
 | ----- |----- | ----------- | 
 | 1     | Introducción al desarrollo con Flask | [Laboratorio](labs/1_intro_flask.md)
+| 2 | Manejo de archivos en Flask | [Laboratorio](labs/2_archivos_flask.md) |
 
 
 ## Laboratorios adicionales
