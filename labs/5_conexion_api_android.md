@@ -13,7 +13,7 @@ Crea una cuenta en [TMDB](https://www.themoviedb.org/) y genera un API KEY para 
 
 Sigue los pasos descritos en la siguiente práctica, si tienes algún problema no olvides que tus profesores están para apoyarte.
 
-Contarás con una carpeta de recursos base del proyecto que podrás revisar aquí.
+Contarás con una carpeta de recursos base del proyecto que podrás revisar [aquí](5_conexion_api_android/res.zip).
 
 ## Laboratorio
 ### Paso 1 Preparar la base del proyecto
