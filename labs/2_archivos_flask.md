@@ -27,8 +27,6 @@ pip install wtforms
 ### Paso 2 Preparar tu entorno de desarrollo
 Crea una carpeta para tu laboratorio en tu computadora, en mi caso estoy creando la carpeta **lab2.**
 
-![lab_2](1_intro_flask/1_003.jpg)
-
 Ahora abre **Visual Studio Code**, si quieres aprender algo nuevo, desde terminal y en la ruta de tu carpeta puedes ejecutar el comando **code .** y esto abre la carpeta desde donde estás, en el caso de que lo hagas manual arrastra la carpeta de tu laboratorio.
 
 Ya que tenemos Visual Studio Code abierto vamos a crear un nuevo archivo llamado **main.py**.
