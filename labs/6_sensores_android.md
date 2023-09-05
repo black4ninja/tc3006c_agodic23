@@ -31,7 +31,7 @@ Para resolver esto la librería cuenta con el método **isAvailable()** con el c
 
 Para comenzar abre el archivo **build.grade** de Module:app.
 
-![lab_3](3_sensores/3_001.jpg)
+![lab_3](6_sensores_android/3_001.jpg)
 
 Vamos a agregar en las **dependencies** lo siguiente:
 
