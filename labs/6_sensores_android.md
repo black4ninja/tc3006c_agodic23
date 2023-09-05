@@ -80,6 +80,8 @@ Como puedes ver para llamar al Acelerómetro basta con llamar a la clase corresp
 
 Una vez realizada la base del sensor, esto abre muchas posibilidades de obtención de información y generación de datos.
 
+Corre la aplicación y ve el resultado.
+
 ## Actividad
 Revisa la documentación de la librería y experimenta con todas las clases incluidas, realiza un cuadro comparativo de cada sensor, para qué sirve, de que manera devuelve los datos y si está disponible para tu dispositivo.
 
