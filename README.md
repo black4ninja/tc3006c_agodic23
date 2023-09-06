@@ -26,6 +26,7 @@
 | 4     | Introducción al desarrollo android | [Laboratorio](labs/4_intro_android.md) |
 | 5     | Conexión con API en Android | [Laboratorio](labs/5_conexion_api_android.md)
 | 6     | Sensores en Android | [Laboratorio](labs/6_sensores_android.md)
+| 7    | KerasNLP & Tensorflow Lite | [Laboratorio](labs/7_kerasnlp_tflite.md)
 
 ## Laboratorios adicionales
 | Tema  | Recursos |
